@@ -1,1 +1,1 @@
-# Clinic-Appointement-Registration
+# Clinic-Appointment-Registration
